@@ -53,15 +53,25 @@ body {
   height: 742px;
 }
 
-.hero-banner-img {
-  position: absolute;
-  right: 40px;
-  top: 0px;
-  width: 700px;
-  height: 900px;
-  margin-top: -330px;
+.hero-banner-typo {
+  
+  color:#FF2625;
+  z-index: 999;
+  
 
 }
+.hero-banner-img {
+  position:absolute;
+  right: 40px;
+  top: 0px;
+  width: 768px;
+  height: 754px;
+  margin-top: -140px;
+  z-index: -2;
+  border-bottom-left-radius:14rem;
+  transform: rotateY(-20px);
+}
+
 
 .exercise-card {
   width: 400px;
