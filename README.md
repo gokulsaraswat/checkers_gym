@@ -1,5 +1,5 @@
 # React Fitness Application
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+![React Fitness Application](https://raw.githubusercontent.com/gokulsaraswat/checkers_gym/main/src/assets/images/banner.png)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Launch your body development career with systematic coaching - https://www.checkersgym.com
